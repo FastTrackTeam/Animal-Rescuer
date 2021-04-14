@@ -8,11 +8,11 @@ public class App
 {
     public static void main( String[] args )
     {
-        Animale Caine1 = new Animale();
-        Caine1.name = "Ursa";
-        Caine1.race = "Labrador";
-        Caine1.color = "Negru";
-        Caine1.maxSpeedRun = 20;
+        Animal caine1 = new Animal();
+        caine1.name = "Ursa";
+        caine1.race = "Labrador";
+        caine1.color = "Negru";
+        caine1.maxSpeedRun = 20;
 
     }
 
