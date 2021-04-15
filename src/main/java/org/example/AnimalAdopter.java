@@ -1,8 +1,9 @@
 package org.example;
 
-public class MedicVeterinar {
+public class AnimalAdopter {
 
     String name;
     double age;
-    String region;
+    boolean married;
+
 }

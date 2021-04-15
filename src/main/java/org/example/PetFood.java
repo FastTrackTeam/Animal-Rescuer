@@ -1,6 +1,6 @@
 package org.example;
 
-public class ManPtAnimal {
+public class PetFood {
 
     String name;
     double maxKiloFood;
